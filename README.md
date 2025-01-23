@@ -1,13 +1,13 @@
 # 🚧 Work in Progress 🚧
 
 
-> 
-> ⚡ Organizing repositories and documentation  
+
+⚡ Organizing repositories and documentation  
 🌱 Building comprehensive knowledge base  
 🔨 Crafting clean implementations  
 ✨ Making everything beautiful
->
-> Coming soon:
+
+Coming soon:
 - 📚 Computer Science Knowledge Hub
 - 🤖 Machine Learning Implementations
 - 💻 System Design Projects
