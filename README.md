@@ -1,6 +1,6 @@
 <div align="center">
 
-# =f.m³
+# =𝑓.𝑚³
 
 **Tech Enthusiast · Solution Architect · AI/ML · Systems · 42 Paris Alumni**
 
