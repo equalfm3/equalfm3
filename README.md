@@ -33,6 +33,9 @@ A private journal that goes beyond logging — AI reflects back what you're feel
 ### [![PhotoCurator](https://img.shields.io/badge/PhotoCurator_—_AI_Photo_Curation-1a1a1a?style=for-the-badge&logo=adobe-lightroom&logoColor=white)](https://github.com/equalfm3/photo-curator)
 Drop photos in a folder. A vision model scores composition, lighting, sharpness, color, emotion, storytelling, technical — then you search, filter, sort, and curate at scale. Table + grid views, persistence, batch analysis.
 
+### [![Wandr](https://img.shields.io/badge/Wandr_—_AI_Travel_Planner-0ea5e9?style=for-the-badge&logo=compass&logoColor=white)](https://github.com/equalfm3/travel-planner)
+Give a destination, budget, and number of days. Get a day-by-day itinerary with real weather, transport options, restaurants, hotels, and cost breakdowns. Runs locally with Ollama — no API keys, no accounts.
+
 ---
 
 ## Interactive Tech Showcases
