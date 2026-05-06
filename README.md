@@ -17,6 +17,15 @@ My event photography work — cinematic horizontal scroll, dark aesthetic. Not a
 
 ---
 
+## Open Source — Built for Contributors
+
+Projects designed to grow with the community. Clear architecture, modular code, contribution guides. PRs welcome.
+
+### [![Ollama Hub](https://img.shields.io/badge/Ollama_Hub_—_Local_AI_Dashboard-0ea5e9?style=for-the-badge&logo=llama&logoColor=white)](https://github.com/equalfm3/ollama-hub)
+The missing dashboard for Ollama. Browse & pull models from the library, chat, benchmark (100+ tests with LLM-as-judge), compare prompts side by side, monitor system resources. No frameworks, no build step — every panel is an independent module you can extend.
+
+---
+
 ## Real-Life Mini Apps
 
 Projects you can open and use right now — no setup, no accounts.
