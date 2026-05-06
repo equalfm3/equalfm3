@@ -10,22 +10,37 @@ Exploring ideas from low-level systems to large language models — one project 
 
 ---
 
-## Highlights
+## Real-Life Mini Apps
 
-### [![Photography](https://img.shields.io/badge/Photography_Portfolio-000?style=for-the-badge&logo=unsplash&logoColor=white)](https://equalfm3.github.io/photography-portfolio)
-Event photography showcase — horizontal scroll, cinematic layout, zero dependencies. Just open and browse.
+Projects you can open and use right now — no setup, no accounts.
+
+### [![MealMind](https://img.shields.io/badge/MealMind_—_AI_Meal_Suggester-166534?style=for-the-badge&logo=cookiecutter&logoColor=white)](https://github.com/equalfm3/ai-meal-suggester)
+AI-powered meal suggestions based on what's in your fridge. Weekly plans, nutrition, shopping lists, voice input. Runs locally with Ollama — private and offline.
 
 ### [![Mini Arcade](https://img.shields.io/badge/Mini_Arcade-4B0082?style=for-the-badge&logo=gamepad&logoColor=white)](https://github.com/equalfm3/mini-arcade)
 45 browser games, no internet needed. No frameworks, no build step — open `index.html` and play. Perfect for killing boredom offline.
 
+### [![Photography](https://img.shields.io/badge/Photography_Portfolio-000?style=for-the-badge&logo=unsplash&logoColor=white)](https://equalfm3.github.io/photography-portfolio)
+Event photography showcase — horizontal scroll, cinematic layout, zero dependencies. Just open and browse.
+
+---
+
+## Interactive Tech Showcases
+
+Visual, educational, hands-on.
+
 ### [![Tech Timeline](https://img.shields.io/badge/Tech_Timeline-1a1a2e?style=for-the-badge&logo=clockify&logoColor=white)](https://github.com/equalfm3/tech-timeline)
-77 interactive milestones from the abacus to AGI across 9 tracks. Each milestone has a live simulation you can interact with — tune a perceptron, mine a block, trace a sort, encrypt with RSA.
+77 interactive milestones from the abacus to AGI across 9 tracks. Each milestone has a live simulation — tune a perceptron, mine a block, trace a sort, encrypt with RSA.
 
 ### [![ML Classical](https://img.shields.io/badge/ML_Classical_Implementation-0d1117?style=for-the-badge&logo=scikitlearn&logoColor=white)](https://github.com/equalfm3/MLCLASSICALIMPLEMENTATION)
 Every classical ML algorithm implemented from scratch in Python with notebooks — SVMs, decision trees, ensemble methods, clustering, dimensionality reduction, and more.
 
 ### [![Deep Learning](https://img.shields.io/badge/Deep_Learning_Implementation-e63946?style=for-the-badge&logo=pytorch&logoColor=white)](https://github.com/equalfm3/DEEPLEARNINGIMPLEMENTATION)
 Deep learning architectures built from scratch — CNNs, RNNs, transformers, GANs, autoencoders, attention mechanisms, all with example notebooks.
+
+---
+
+## Academic
 
 ### [![42 Paris](https://img.shields.io/badge/42_Paris-000?style=for-the-badge&logo=42&logoColor=white)](https://github.com/equalfm3/42Paris)
 Projects from École 42 — C programming, algorithms, Unix, networking, graphics. Peer-to-peer learning, no teachers, no classes.
