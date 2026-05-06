@@ -24,6 +24,9 @@ Projects you can open and use right now — no setup, no accounts.
 ### [![MealMind](https://img.shields.io/badge/MealMind_—_AI_Meal_Suggester-166534?style=for-the-badge&logo=cookiecutter&logoColor=white)](https://github.com/equalfm3/ai-meal-suggester)
 AI-powered meal suggestions based on what's in your fridge. Weekly plans, nutrition, shopping lists, voice input. Runs locally with Ollama — private and offline.
 
+### [![InnerLens](https://img.shields.io/badge/InnerLens_—_AI_Mood_Journal-4c1d95?style=for-the-badge&logo=heart&logoColor=white)](https://github.com/equalfm3/mood-journal)
+A private journal that goes beyond logging — AI reflects back what you're feeling, spots emotional patterns, connects mood to sleep/habits, and asks questions that help you go deeper.
+
 ### [![Mini Arcade](https://img.shields.io/badge/Mini_Arcade-4B0082?style=for-the-badge&logo=gamepad&logoColor=white)](https://github.com/equalfm3/mini-arcade)
 45 browser games, no internet needed. No frameworks, no build step — open `index.html` and play. Perfect for killing boredom offline.
 
