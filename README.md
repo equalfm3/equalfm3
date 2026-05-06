@@ -2,11 +2,18 @@
 
 # =𝑓.𝑚³
 
-**Tech Enthusiast · Solution Architect · AI/ML · Systems · 42 Paris Alumni**
+**Tech Enthusiast · Solution Architect · AI/ML · Systems · Photographer**
 
 Exploring ideas from low-level systems to large language models — one project at a time.
 
 </div>
+
+---
+
+## Photography
+
+### [![Photography Portfolio](https://img.shields.io/badge/Photography_Portfolio-000?style=for-the-badge&logo=unsplash&logoColor=white)](https://equalfm3.github.io/photography-portfolio)
+My event photography work — cinematic horizontal scroll, dark aesthetic. Not a dev project — this is the actual portfolio.
 
 ---
 
@@ -19,9 +26,6 @@ AI-powered meal suggestions based on what's in your fridge. Weekly plans, nutrit
 
 ### [![Mini Arcade](https://img.shields.io/badge/Mini_Arcade-4B0082?style=for-the-badge&logo=gamepad&logoColor=white)](https://github.com/equalfm3/mini-arcade)
 45 browser games, no internet needed. No frameworks, no build step — open `index.html` and play. Perfect for killing boredom offline.
-
-### [![Photography](https://img.shields.io/badge/Photography_Portfolio-000?style=for-the-badge&logo=unsplash&logoColor=white)](https://equalfm3.github.io/photography-portfolio)
-Event photography showcase — horizontal scroll, cinematic layout, zero dependencies. Just open and browse.
 
 ---
 
