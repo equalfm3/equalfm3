@@ -30,7 +30,7 @@ A private journal that goes beyond logging — AI reflects back what you're feel
 ### [![Mini Arcade](https://img.shields.io/badge/Mini_Arcade-4B0082?style=for-the-badge&logo=gamepad&logoColor=white)](https://github.com/equalfm3/mini-arcade)
 45 browser games, no internet needed. No frameworks, no build step — open `index.html` and play. Perfect for killing boredom offline.
 
-### [![PhotoCurator](https://img.shields.io/badge/PhotoCurator_—_AI_Photo_Curation-1a1a1a?style=for-the-badge&logo=aperture&logoColor=white)](https://github.com/equalfm3/photo-curator)
+### [![PhotoCurator](https://img.shields.io/badge/PhotoCurator_—_AI_Photo_Curation-1a1a1a?style=for-the-badge&logo=adobe-lightroom&logoColor=white)](https://github.com/equalfm3/photo-curator)
 Drop photos in a folder. A vision model scores composition, lighting, sharpness, color, emotion, storytelling, technical — then you search, filter, sort, and curate at scale. Table + grid views, persistence, batch analysis.
 
 ---
